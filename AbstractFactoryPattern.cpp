@@ -109,10 +109,10 @@ public:
 		return pizza_;
 	}
 };
-
+/*
 int main()
 {
 	PizzaStore* ny_pizza_store = new NYPizzaStore();
 	ny_pizza_store->orderPizza("cheese");
 	return 0;
-}
+}*/
